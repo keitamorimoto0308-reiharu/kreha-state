@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-08 23:15:02",
+    "generated_at": "2026-08-08 23:40:08",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 0,
@@ -104,12 +104,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 191,
+                "views": 221,
                 "likes": 0,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 22:45:02"
+                "at": "2026-08-08 23:40:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbx3fmTE0bG",
             "last_error": ""
@@ -152,12 +152,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 190,
+                "views": 193,
                 "likes": 2,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 22:45:04"
+                "at": "2026-08-08 23:40:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxwoNKE5rc",
             "last_error": ""
@@ -200,12 +200,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 214,
+                "views": 220,
                 "likes": 1,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 22:45:04"
+                "at": "2026-08-08 23:40:05"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbxfdb6FPFO",
             "last_error": ""
@@ -224,12 +224,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 216,
+                "views": 218,
                 "likes": 3,
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-08 22:45:05"
+                "at": "2026-08-08 23:40:06"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK36uFJHs",
             "last_error": ""
@@ -272,12 +272,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 218,
+                "views": 221,
                 "likes": 1,
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-08 22:45:05"
+                "at": "2026-08-08 23:40:06"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK3DDlC9z",
             "last_error": ""
@@ -349,7 +349,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 22:45:06"
+                "at": "2026-08-08 23:40:07"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvSspPEwIh",
             "last_error": ""
@@ -397,7 +397,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 22:45:08"
+                "at": "2026-08-08 23:40:07"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvIZhpEwV0",
             "last_error": ""
@@ -445,7 +445,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 22:45:08"
+                "at": "2026-08-08 23:40:07"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbu7z0gk716",
             "last_error": ""
@@ -493,7 +493,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 22:45:09"
+                "at": "2026-08-08 23:40:08"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbuTLr3k9H1",
             "last_error": ""
@@ -541,7 +541,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 22:45:10"
+                "at": "2026-08-08 23:40:08"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbt_KBek15b",
             "last_error": ""
@@ -616,7 +616,7 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-08 22:45:01",
+        "threads_last": "2026-08-08 23:40:02",
         "x_last": "2026-08-08 21:25:01",
         "last_error": ""
     }
