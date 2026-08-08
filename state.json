@@ -1,11 +1,11 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-08 20:55:10",
+    "generated_at": "2026-08-08 21:25:02",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 0,
-        "posts_approved": 3,
-        "posts_posted": 19,
+        "posts_approved": 2,
+        "posts_posted": 20,
         "posts_failed": 0,
         "posts_skipped": 2,
         "engage_open": 41,
@@ -18,10 +18,10 @@
         {
             "id": "H-06",
             "posts": 4,
-            "judged": 1,
+            "judged": 2,
             "hit": 0,
-            "miss": 1,
-            "avg_actual_24h": 725
+            "miss": 2,
+            "avg_actual_24h": 363
         },
         {
             "id": "H-03",
@@ -34,10 +34,10 @@
         {
             "id": "H-05",
             "posts": 4,
-            "judged": 1,
+            "judged": 2,
             "hit": 0,
-            "miss": 1,
-            "avg_actual_24h": 283
+            "miss": 2,
+            "avg_actual_24h": 142
         },
         {
             "id": "H-02",
@@ -111,17 +111,24 @@
             "id": 24,
             "platform": "x",
             "hypothesis": "H-03",
-            "status": "approved",
+            "status": "posted",
             "scheduled_at": "2026-08-08 21:00:00",
-            "posted_at": "",
+            "posted_at": "2026-08-08 21:00:01",
             "body": "マッチングアプリ市場、調査では1,000億円規模だそうで。\n\n出会いの「数」にはみんな課金する。でも毎回同じタイプで消耗する原因（自分の愛着の型）は放置。\n\n母数を増やしても、選び方のクセが同じなら結果も似てきがち。\n\n先に直すのはフィルターの方じゃない？",
             "edited_by_keita": false,
             "keita_comment": "",
             "pred_low": 50,
             "pred_high": 200,
             "actual_24h": null,
-            "latest": null,
-            "remote_url": "",
+            "latest": {
+                "views": 0,
+                "likes": 0,
+                "replies": 0,
+                "reposts": 0,
+                "quotes": 0,
+                "at": "2026-08-08 21:25:02"
+            },
+            "remote_url": "https://x.com/Ainchu_loveota/status/2086059856214311142",
             "last_error": ""
         },
         {
@@ -161,7 +168,14 @@
             "pred_low": 50,
             "pred_high": 200,
             "actual_24h": null,
-            "latest": null,
+            "latest": {
+                "views": 0,
+                "likes": 0,
+                "replies": 0,
+                "reposts": 0,
+                "quotes": 0,
+                "at": "2026-08-08 21:25:02"
+            },
             "remote_url": "https://x.com/Ainchu_loveota/status/2086022106656170209",
             "last_error": ""
         },
@@ -232,7 +246,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 15:35:01"
+                "at": "2026-08-08 21:25:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085969317422825519",
             "last_error": ""
@@ -280,7 +294,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 15:35:01"
+                "at": "2026-08-08 21:25:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085969287672631763",
             "last_error": ""
@@ -304,7 +318,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 15:35:01"
+                "at": "2026-08-08 21:25:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085710052024111362",
             "last_error": ""
@@ -345,14 +359,14 @@
             "keita_comment": "",
             "pred_low": 100,
             "pred_high": 400,
-            "actual_24h": null,
+            "actual_24h": 0,
             "latest": {
                 "views": 0,
                 "likes": 0,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 15:35:01"
+                "at": "2026-08-08 21:25:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085689918580576468",
             "last_error": ""
@@ -393,14 +407,14 @@
             "keita_comment": "",
             "pred_low": 150,
             "pred_high": 500,
-            "actual_24h": null,
+            "actual_24h": 0,
             "latest": {
                 "views": 0,
                 "likes": 0,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 15:35:01"
+                "at": "2026-08-08 21:25:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085660980323971297",
             "last_error": ""
@@ -448,7 +462,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 15:35:01"
+                "at": "2026-08-08 21:25:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085571638322708784",
             "last_error": ""
@@ -496,7 +510,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 15:35:01"
+                "at": "2026-08-08 21:25:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085521347053289598",
             "last_error": ""
@@ -596,7 +610,7 @@
     ],
     "collector": {
         "threads_last": "2026-08-08 20:55:01",
-        "x_last": "2026-08-08 15:35:01",
+        "x_last": "2026-08-08 21:25:01",
         "last_error": ""
     }
 }
