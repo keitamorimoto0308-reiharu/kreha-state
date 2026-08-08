@@ -1,11 +1,11 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-08 17:55:01",
+    "generated_at": "2026-08-08 18:25:01",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 0,
-        "posts_approved": 6,
-        "posts_posted": 16,
+        "posts_approved": 5,
+        "posts_posted": 17,
         "posts_failed": 0,
         "posts_skipped": 2,
         "engage_open": 41,
@@ -162,17 +162,24 @@
             "id": 21,
             "platform": "threads",
             "hypothesis": "H-05",
-            "status": "approved",
+            "status": "posted",
             "scheduled_at": "2026-08-08 18:00:00",
-            "posted_at": "",
+            "posted_at": "2026-08-08 18:00:08",
             "body": "回避型に効く一手、今日はひとつだけ。\n\n「返信の速さを競わない」。\n\nあの型は即レス圧を、借金の取り立てみたいに感じる傾向がある。こっちが自分の生活で普通に忙しくしてるだけで、勝手に「安全な人」認定されて距離が戻ってくることが多い。\n\n追いかけない。でも扉は閉めない。この塩梅。",
             "edited_by_keita": false,
             "keita_comment": "",
             "pred_low": 150,
             "pred_high": 500,
             "actual_24h": null,
-            "latest": null,
-            "remote_url": "",
+            "latest": {
+                "views": 0,
+                "likes": 0,
+                "replies": 0,
+                "reposts": 0,
+                "quotes": 0,
+                "at": "2026-08-08 18:10:02"
+            },
+            "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbxfdb6FPFO",
             "last_error": ""
         },
         {
@@ -189,12 +196,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 168,
+                "views": 187,
                 "likes": 3,
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-08 17:15:02"
+                "at": "2026-08-08 18:10:02"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK36uFJHs",
             "last_error": ""
@@ -237,12 +244,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 161,
+                "views": 183,
                 "likes": 1,
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-08 17:15:02"
+                "at": "2026-08-08 18:10:02"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK3DDlC9z",
             "last_error": ""
@@ -314,7 +321,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 17:15:02"
+                "at": "2026-08-08 18:10:03"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvSspPEwIh",
             "last_error": ""
@@ -357,12 +364,12 @@
             "pred_high": 700,
             "actual_24h": null,
             "latest": {
-                "views": 708,
+                "views": 713,
                 "likes": 1,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 17:15:03"
+                "at": "2026-08-08 18:10:03"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvIZhpEwV0",
             "last_error": ""
@@ -410,7 +417,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 17:15:03"
+                "at": "2026-08-08 18:10:03"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbu7z0gk716",
             "last_error": ""
@@ -458,7 +465,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 17:15:04"
+                "at": "2026-08-08 18:10:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbuTLr3k9H1",
             "last_error": ""
@@ -506,7 +513,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 17:15:04"
+                "at": "2026-08-08 18:10:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbt_KBek15b",
             "last_error": ""
@@ -581,7 +588,7 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-08 17:15:01",
+        "threads_last": "2026-08-08 18:10:01",
         "x_last": "2026-08-08 15:35:01",
         "last_error": ""
     }
