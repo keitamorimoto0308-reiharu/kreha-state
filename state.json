@@ -1,11 +1,11 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-08 21:50:06",
+    "generated_at": "2026-08-08 22:20:02",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 0,
-        "posts_approved": 1,
-        "posts_posted": 21,
+        "posts_approved": 0,
+        "posts_posted": 22,
         "posts_failed": 0,
         "posts_skipped": 2,
         "engage_open": 41,
@@ -77,9 +77,9 @@
             "id": 26,
             "platform": "x",
             "hypothesis": "H-06",
-            "status": "approved",
+            "status": "posted",
             "scheduled_at": "2026-08-08 22:00:00",
-            "posted_at": "",
+            "posted_at": "2026-08-08 22:00:01",
             "body": "不安型×回避型カップルの様式美。\n\n詰める→引く→不安になってさらに詰める→もっと引く。\n\n本人たちは「性格の不一致」って言うけど、実際は型の組み合わせが生む構造のループであることが多い。\n\n構造が見えると、抜け方も見えてくる。",
             "edited_by_keita": false,
             "keita_comment": "",
@@ -87,7 +87,7 @@
             "pred_high": 200,
             "actual_24h": null,
             "latest": null,
-            "remote_url": "",
+            "remote_url": "https://x.com/Ainchu_loveota/status/2086074954936885556",
             "last_error": ""
         },
         {
