@@ -1,11 +1,11 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-08 20:25:01",
+    "generated_at": "2026-08-08 20:55:10",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 0,
-        "posts_approved": 4,
-        "posts_posted": 18,
+        "posts_approved": 3,
+        "posts_posted": 19,
         "posts_failed": 0,
         "posts_skipped": 2,
         "engage_open": 41,
@@ -18,10 +18,10 @@
         {
             "id": "H-06",
             "posts": 4,
-            "judged": 0,
+            "judged": 1,
             "hit": 0,
-            "miss": 0,
-            "avg_actual_24h": null
+            "miss": 1,
+            "avg_actual_24h": 725
         },
         {
             "id": "H-03",
@@ -128,17 +128,24 @@
             "id": 23,
             "platform": "threads",
             "hypothesis": "H-03",
-            "status": "approved",
+            "status": "posted",
             "scheduled_at": "2026-08-08 20:30:00",
-            "posted_at": "",
+            "posted_at": "2026-08-08 20:30:12",
             "body": "国内のマッチングサービス市場、最近の調査だと1,000億円を超えたらしい。\n\nみんな「出会いの数」には課金するのに、「なぜ毎回同じ失敗をするのか」には1円も使わない。\n\n出会いを増やしても、選ぶ基準（＝自分の愛着の型）がバグったままなら、同じタイプの男を引き続けやすい。\n\n数を増やす前に、フィルターの点検って発想はないのかね。",
             "edited_by_keita": false,
             "keita_comment": "",
             "pred_low": 150,
             "pred_high": 500,
             "actual_24h": null,
-            "latest": null,
-            "remote_url": "",
+            "latest": {
+                "views": 0,
+                "likes": 1,
+                "replies": 0,
+                "reposts": 0,
+                "quotes": 0,
+                "at": "2026-08-08 20:55:04"
+            },
+            "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxwoNKE5rc",
             "last_error": ""
         },
         {
@@ -172,12 +179,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 155,
-                "likes": 0,
+                "views": 189,
+                "likes": 1,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:00:01"
+                "at": "2026-08-08 20:55:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbxfdb6FPFO",
             "last_error": ""
@@ -196,12 +203,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 200,
+                "views": 206,
                 "likes": 3,
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-08 20:00:01"
+                "at": "2026-08-08 20:55:05"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK36uFJHs",
             "last_error": ""
@@ -244,12 +251,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 197,
+                "views": 205,
                 "likes": 1,
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-08 20:00:02"
+                "at": "2026-08-08 20:55:05"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK3DDlC9z",
             "last_error": ""
@@ -316,12 +323,12 @@
             "pred_high": 600,
             "actual_24h": null,
             "latest": {
-                "views": 262,
+                "views": 263,
                 "likes": 0,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:00:02"
+                "at": "2026-08-08 20:55:06"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvSspPEwIh",
             "last_error": ""
@@ -362,14 +369,14 @@
             "keita_comment": "",
             "pred_low": 300,
             "pred_high": 700,
-            "actual_24h": null,
+            "actual_24h": 725,
             "latest": {
-                "views": 723,
+                "views": 725,
                 "likes": 1,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:00:03"
+                "at": "2026-08-08 20:55:07"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvIZhpEwV0",
             "last_error": ""
@@ -412,12 +419,12 @@
             "pred_high": 800,
             "actual_24h": 283,
             "latest": {
-                "views": 283,
+                "views": 284,
                 "likes": 0,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:00:03"
+                "at": "2026-08-08 20:55:08"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbu7z0gk716",
             "last_error": ""
@@ -460,12 +467,12 @@
             "pred_high": 800,
             "actual_24h": 108,
             "latest": {
-                "views": 112,
+                "views": 113,
                 "likes": 0,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:00:03"
+                "at": "2026-08-08 20:55:08"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbuTLr3k9H1",
             "last_error": ""
@@ -508,12 +515,12 @@
             "pred_high": 800,
             "actual_24h": 172,
             "latest": {
-                "views": 175,
+                "views": 177,
                 "likes": 0,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:00:04"
+                "at": "2026-08-08 20:55:10"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbt_KBek15b",
             "last_error": ""
@@ -588,7 +595,7 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-08 20:00:01",
+        "threads_last": "2026-08-08 20:55:01",
         "x_last": "2026-08-08 15:35:01",
         "last_error": ""
     }
