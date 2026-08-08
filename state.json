@@ -1,11 +1,11 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-08 21:25:02",
+    "generated_at": "2026-08-08 21:50:06",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 0,
-        "posts_approved": 2,
-        "posts_posted": 20,
+        "posts_approved": 1,
+        "posts_posted": 21,
         "posts_failed": 0,
         "posts_skipped": 2,
         "engage_open": 41,
@@ -26,10 +26,10 @@
         {
             "id": "H-03",
             "posts": 4,
-            "judged": 0,
-            "hit": 0,
+            "judged": 1,
+            "hit": 1,
             "miss": 0,
-            "avg_actual_24h": null
+            "avg_actual_24h": 263
         },
         {
             "id": "H-05",
@@ -94,17 +94,24 @@
             "id": 25,
             "platform": "threads",
             "hypothesis": "H-06",
-            "status": "approved",
+            "status": "posted",
             "scheduled_at": "2026-08-08 21:30:00",
-            "posted_at": "",
+            "posted_at": "2026-08-08 21:30:11",
             "body": "不安型×回避型、恋愛界の伝統芸能みたいな組み合わせ。\n\n不安型が「もっと確かめたい」で距離を詰める→回避型が「重い」で引く→引かれた不安型がさらに詰める→無限ループ。\n\nどっちも悪人じゃないのに、構造だけで泥試合になる。\n\n相性って運命じゃなくて、かなりの部分が構造の話。",
             "edited_by_keita": false,
             "keita_comment": "",
             "pred_low": 150,
             "pred_high": 500,
             "actual_24h": null,
-            "latest": null,
-            "remote_url": "",
+            "latest": {
+                "views": 0,
+                "likes": 0,
+                "replies": 0,
+                "reposts": 0,
+                "quotes": 0,
+                "at": "2026-08-08 21:50:01"
+            },
+            "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbx3fmTE0bG",
             "last_error": ""
         },
         {
@@ -145,12 +152,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 0,
-                "likes": 1,
+                "views": 155,
+                "likes": 2,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:55:04"
+                "at": "2026-08-08 21:50:02"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxwoNKE5rc",
             "last_error": ""
@@ -193,12 +200,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 189,
+                "views": 200,
                 "likes": 1,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:55:04"
+                "at": "2026-08-08 21:50:02"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbxfdb6FPFO",
             "last_error": ""
@@ -217,12 +224,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 206,
+                "views": 213,
                 "likes": 3,
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-08 20:55:05"
+                "at": "2026-08-08 21:50:03"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK36uFJHs",
             "last_error": ""
@@ -265,12 +272,12 @@
             "pred_high": 500,
             "actual_24h": null,
             "latest": {
-                "views": 205,
+                "views": 212,
                 "likes": 1,
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-08 20:55:05"
+                "at": "2026-08-08 21:50:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK3DDlC9z",
             "last_error": ""
@@ -335,14 +342,14 @@
             "keita_comment": "",
             "pred_low": 200,
             "pred_high": 600,
-            "actual_24h": null,
+            "actual_24h": 263,
             "latest": {
                 "views": 263,
                 "likes": 0,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:55:06"
+                "at": "2026-08-08 21:50:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvSspPEwIh",
             "last_error": ""
@@ -390,7 +397,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:55:07"
+                "at": "2026-08-08 21:50:05"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvIZhpEwV0",
             "last_error": ""
@@ -438,7 +445,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:55:08"
+                "at": "2026-08-08 21:50:05"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbu7z0gk716",
             "last_error": ""
@@ -486,7 +493,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:55:08"
+                "at": "2026-08-08 21:50:06"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbuTLr3k9H1",
             "last_error": ""
@@ -534,7 +541,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 20:55:10"
+                "at": "2026-08-08 21:50:06"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbt_KBek15b",
             "last_error": ""
@@ -609,7 +616,7 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-08 20:55:01",
+        "threads_last": "2026-08-08 21:50:01",
         "x_last": "2026-08-08 21:25:01",
         "last_error": ""
     }
