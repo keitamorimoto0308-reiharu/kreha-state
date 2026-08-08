@@ -1,11 +1,11 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-08 14:55:01",
+    "generated_at": "2026-08-08 15:25:01",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
-        "posts_pending": 10,
-        "posts_approved": 0,
-        "posts_posted": 12,
+        "posts_pending": 0,
+        "posts_approved": 6,
+        "posts_posted": 16,
         "posts_failed": 0,
         "posts_skipped": 2,
         "engage_open": 41,
@@ -77,7 +77,7 @@
             "id": 26,
             "platform": "x",
             "hypothesis": "H-06",
-            "status": "pending",
+            "status": "approved",
             "scheduled_at": "2026-08-08 22:00:00",
             "posted_at": "",
             "body": "不安型×回避型カップルの様式美。\n\n詰める→引く→不安になってさらに詰める→もっと引く。\n\n本人たちは「性格の不一致」って言うけど、実際は型の組み合わせが生む構造のループであることが多い。\n\n構造が見えると、抜け方も見えてくる。",
@@ -94,7 +94,7 @@
             "id": 25,
             "platform": "threads",
             "hypothesis": "H-06",
-            "status": "pending",
+            "status": "approved",
             "scheduled_at": "2026-08-08 21:30:00",
             "posted_at": "",
             "body": "不安型×回避型、恋愛界の伝統芸能みたいな組み合わせ。\n\n不安型が「もっと確かめたい」で距離を詰める→回避型が「重い」で引く→引かれた不安型がさらに詰める→無限ループ。\n\nどっちも悪人じゃないのに、構造だけで泥試合になる。\n\n相性って運命じゃなくて、かなりの部分が構造の話。",
@@ -111,7 +111,7 @@
             "id": 24,
             "platform": "x",
             "hypothesis": "H-03",
-            "status": "pending",
+            "status": "approved",
             "scheduled_at": "2026-08-08 21:00:00",
             "posted_at": "",
             "body": "マッチングアプリ市場、調査では1,000億円規模だそうで。\n\n出会いの「数」にはみんな課金する。でも毎回同じタイプで消耗する原因（自分の愛着の型）は放置。\n\n母数を増やしても、選び方のクセが同じなら結果も似てきがち。\n\n先に直すのはフィルターの方じゃない？",
@@ -128,7 +128,7 @@
             "id": 23,
             "platform": "threads",
             "hypothesis": "H-03",
-            "status": "pending",
+            "status": "approved",
             "scheduled_at": "2026-08-08 20:30:00",
             "posted_at": "",
             "body": "国内のマッチングサービス市場、最近の調査だと1,000億円を超えたらしい。\n\nみんな「出会いの数」には課金するのに、「なぜ毎回同じ失敗をするのか」には1円も使わない。\n\n出会いを増やしても、選ぶ基準（＝自分の愛着の型）がバグったままなら、同じタイプの男を引き続けやすい。\n\n数を増やす前に、フィルターの点検って発想はないのかね。",
@@ -145,7 +145,7 @@
             "id": 22,
             "platform": "x",
             "hypothesis": "H-05",
-            "status": "pending",
+            "status": "approved",
             "scheduled_at": "2026-08-08 18:30:00",
             "posted_at": "",
             "body": "回避型攻略の小ネタをひとつ。\n\n即レスを求める空気は、あの型には「圧」として届く傾向がある。\n\n自分の生活を優先して返信ペースをゆるめる。それだけで安全認定されて、向こうから距離が戻るケースは多い。\n\n追わない。けど締め出さない。",
@@ -162,7 +162,7 @@
             "id": 21,
             "platform": "threads",
             "hypothesis": "H-05",
-            "status": "pending",
+            "status": "approved",
             "scheduled_at": "2026-08-08 18:00:00",
             "posted_at": "",
             "body": "回避型に効く一手、今日はひとつだけ。\n\n「返信の速さを競わない」。\n\nあの型は即レス圧を、借金の取り立てみたいに感じる傾向がある。こっちが自分の生活で普通に忙しくしてるだけで、勝手に「安全な人」認定されて距離が戻ってくることが多い。\n\n追いかけない。でも扉は閉めない。この塩梅。",
@@ -176,12 +176,36 @@
             "last_error": ""
         },
         {
+            "id": 19,
+            "platform": "threads",
+            "hypothesis": "H-02",
+            "status": "posted",
+            "scheduled_at": "2026-08-08 12:15:00",
+            "posted_at": "2026-08-08 15:00:15",
+            "body": "「既読無視して焦らせろ」「追わせたら勝ち」\n\n…あのさ、それ相手が不安型のときだけ一時的に効いたように見えて、信頼が静かに削れていくやつ。回避型が相手なら「楽になった」って安心されて終わり。\n\n型を見ずに駆け引きだけ真似るのは、成分表示を見ずに薬を飲むのと同じ。\n\n効くかどうかは技じゃなくて、相手の型でほぼ決まる。",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 150,
+            "pred_high": 500,
+            "actual_24h": null,
+            "latest": {
+                "views": 0,
+                "likes": 1,
+                "replies": 0,
+                "reposts": 1,
+                "quotes": 0,
+                "at": "2026-08-08 15:15:02"
+            },
+            "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK36uFJHs",
+            "last_error": ""
+        },
+        {
             "id": 20,
             "platform": "x",
             "hypothesis": "H-02",
-            "status": "pending",
+            "status": "posted",
             "scheduled_at": "2026-08-08 12:45:00",
-            "posted_at": "",
+            "posted_at": "2026-08-08 15:00:15",
             "body": "「無視して追わせろ」系のテク、相手の型を見ずに使うと事故る。\n\n不安型相手→一時的に効いて見えるが信頼が削れる\n回避型相手→「解放された」と喜ばれて終わり\n\n駆け引きの正解は相手の型でほぼ決まる。技から覚える順番が逆なんよ。\n\n#恋愛",
             "edited_by_keita": false,
             "keita_comment": "",
@@ -189,33 +213,40 @@
             "pred_high": 200,
             "actual_24h": null,
             "latest": null,
-            "remote_url": "",
+            "remote_url": "https://x.com/Ainchu_loveota/status/2085969317422825519",
             "last_error": ""
         },
         {
-            "id": 19,
+            "id": 17,
             "platform": "threads",
-            "hypothesis": "H-02",
-            "status": "pending",
-            "scheduled_at": "2026-08-08 12:15:00",
-            "posted_at": "",
-            "body": "「既読無視して焦らせろ」「追わせたら勝ち」\n\n…あのさ、それ相手が不安型のときだけ一時的に効いたように見えて、信頼が静かに削れていくやつ。回避型が相手なら「楽になった」って安心されて終わり。\n\n型を見ずに駆け引きだけ真似るのは、成分表示を見ずに薬を飲むのと同じ。\n\n効くかどうかは技じゃなくて、相手の型でほぼ決まる。",
+            "hypothesis": "H-01",
+            "status": "posted",
+            "scheduled_at": "2026-08-08 07:00:00",
+            "posted_at": "2026-08-08 15:00:08",
+            "body": "「付き合う前は毎日連絡くれたのに、付き合ったら急に減った」\n\nはいはい、それ回避型のいつものやつ。\n\n冷めたんじゃなくて、距離が縮まった瞬間に息苦しくなる型。追いかけるほど巣に引っ込む習性がある。\n\nつまりあなたの魅力の問題じゃなくて、彼の設計の話。ここを分けて考えられるようになると、恋愛の消耗が半分くらいになる。",
             "edited_by_keita": false,
             "keita_comment": "",
             "pred_low": 150,
             "pred_high": 500,
             "actual_24h": null,
-            "latest": null,
-            "remote_url": "",
+            "latest": {
+                "views": 0,
+                "likes": 0,
+                "replies": 0,
+                "reposts": 0,
+                "quotes": 0,
+                "at": "2026-08-08 15:15:02"
+            },
+            "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK3DDlC9z",
             "last_error": ""
         },
         {
             "id": 18,
             "platform": "x",
             "hypothesis": "H-01",
-            "status": "pending",
+            "status": "posted",
             "scheduled_at": "2026-08-08 07:30:00",
-            "posted_at": "",
+            "posted_at": "2026-08-08 15:00:08",
             "body": "連絡が減った＝冷めた、とは限らない。\n\n回避型は「関係が深まった」タイミングで引く傾向がある。距離が縮まると息苦しくなる設計だから。\n\nあなたの魅力の問題じゃなくて、彼の型の話。ここを混ぜて考えると病む。\n\n#恋愛心理学",
             "edited_by_keita": false,
             "keita_comment": "",
@@ -223,24 +254,7 @@
             "pred_high": 200,
             "actual_24h": null,
             "latest": null,
-            "remote_url": "",
-            "last_error": ""
-        },
-        {
-            "id": 17,
-            "platform": "threads",
-            "hypothesis": "H-01",
-            "status": "pending",
-            "scheduled_at": "2026-08-08 07:00:00",
-            "posted_at": "",
-            "body": "「付き合う前は毎日連絡くれたのに、付き合ったら急に減った」\n\nはいはい、それ回避型のいつものやつ。\n\n冷めたんじゃなくて、距離が縮まった瞬間に息苦しくなる型。追いかけるほど巣に引っ込む習性がある。\n\nつまりあなたの魅力の問題じゃなくて、彼の設計の話。ここを分けて考えられるようになると、恋愛の消耗が半分くらいになる。",
-            "edited_by_keita": false,
-            "keita_comment": "",
-            "pred_low": 150,
-            "pred_high": 500,
-            "actual_24h": null,
-            "latest": null,
-            "remote_url": "",
+            "remote_url": "https://x.com/Ainchu_loveota/status/2085969287672631763",
             "last_error": ""
         },
         {
@@ -286,7 +300,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 14:20:02"
+                "at": "2026-08-08 15:15:03"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvSspPEwIh",
             "last_error": ""
@@ -329,12 +343,12 @@
             "pred_high": 700,
             "actual_24h": null,
             "latest": {
-                "views": 673,
+                "views": 698,
                 "likes": 1,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 14:20:02"
+                "at": "2026-08-08 15:15:03"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvIZhpEwV0",
             "last_error": ""
@@ -382,7 +396,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 14:20:03"
+                "at": "2026-08-08 15:15:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbu7z0gk716",
             "last_error": ""
@@ -430,7 +444,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 14:20:03"
+                "at": "2026-08-08 15:15:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbuTLr3k9H1",
             "last_error": ""
@@ -478,7 +492,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-08 14:20:03"
+                "at": "2026-08-08 15:15:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbt_KBek15b",
             "last_error": ""
@@ -553,7 +567,7 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-08 14:20:02",
+        "threads_last": "2026-08-08 15:15:02",
         "x_last": "2026-08-08 09:45:01",
         "last_error": ""
     }
