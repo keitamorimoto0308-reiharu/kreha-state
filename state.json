@@ -1,9 +1,9 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-10 06:05:01",
+    "generated_at": "2026-08-10 06:30:06",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
-        "posts_pending": 10,
+        "posts_pending": 20,
         "posts_approved": 0,
         "posts_posted": 22,
         "posts_failed": 0,
@@ -16,6 +16,38 @@
     },
     "hypotheses": [
         {
+            "id": "H-00",
+            "posts": 3,
+            "judged": 0,
+            "hit": 0,
+            "miss": 0,
+            "avg_actual_24h": null
+        },
+        {
+            "id": "H-03",
+            "posts": 8,
+            "judged": 4,
+            "hit": 2,
+            "miss": 2,
+            "avg_actual_24h": 120
+        },
+        {
+            "id": "H-05",
+            "posts": 8,
+            "judged": 4,
+            "hit": 1,
+            "miss": 3,
+            "avg_actual_24h": 160
+        },
+        {
+            "id": "H-06",
+            "posts": 11,
+            "judged": 4,
+            "hit": 1,
+            "miss": 3,
+            "avg_actual_24h": 287
+        },
+        {
             "id": "H-02",
             "posts": 5,
             "judged": 4,
@@ -24,44 +56,12 @@
             "avg_actual_24h": 87
         },
         {
-            "id": "H-00",
-            "posts": 1,
-            "judged": 0,
-            "hit": 0,
-            "miss": 0,
-            "avg_actual_24h": null
-        },
-        {
             "id": "H-01",
             "posts": 5,
             "judged": 4,
             "hit": 1,
             "miss": 3,
             "avg_actual_24h": 108
-        },
-        {
-            "id": "H-03",
-            "posts": 6,
-            "judged": 4,
-            "hit": 2,
-            "miss": 2,
-            "avg_actual_24h": 120
-        },
-        {
-            "id": "H-05",
-            "posts": 6,
-            "judged": 4,
-            "hit": 1,
-            "miss": 3,
-            "avg_actual_24h": 160
-        },
-        {
-            "id": "H-06",
-            "posts": 7,
-            "judged": 4,
-            "hit": 1,
-            "miss": 3,
-            "avg_actual_24h": 287
         },
         {
             "id": "直感・予測なし",
@@ -81,6 +81,176 @@
         }
     ],
     "posts": [
+        {
+            "id": 46,
+            "platform": "x",
+            "hypothesis": "H-00",
+            "status": "pending",
+            "scheduled_at": "2026-08-10 22:00:00",
+            "posted_at": "",
+            "body": "月曜夜の恋愛反省会は辛口になりがち。\n\n消耗した日の脳は粗探しモードで、「脈ないかも」の結論が出やすい時間帯。\n\n大事な判断は休んだ翌朝の自分に回す。夜の自分は裁判官じゃなくて書記係。\n#恋愛",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 0,
+            "pred_high": 10,
+            "actual_24h": null,
+            "latest": null,
+            "remote_url": "",
+            "last_error": ""
+        },
+        {
+            "id": 45,
+            "platform": "threads",
+            "hypothesis": "H-00",
+            "status": "pending",
+            "scheduled_at": "2026-08-10 21:30:00",
+            "posted_at": "",
+            "body": "月曜の夜にやる恋愛の反省会、だいたい辛口になりすぎる。\n\n仕事で消耗した日の脳は、恋愛の粗探しも強化される。「私ばっかり好きなのかも」「脈ないのかも」って結論が出やすいのは、判断力が減ってる時間帯だから。\n\n大事な結論は、休んだ翌朝のもう一人の自分に出させてあげて。\n\n夜の自分は裁判官には向いてない。書記くらいがちょうどいい。",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 150,
+            "pred_high": 540,
+            "actual_24h": null,
+            "latest": null,
+            "remote_url": "",
+            "last_error": ""
+        },
+        {
+            "id": 44,
+            "platform": "x",
+            "hypothesis": "H-03",
+            "status": "pending",
+            "scheduled_at": "2026-08-10 21:00:00",
+            "posted_at": "",
+            "body": "マッチングアプリ市場、白書2026だと1,094億円。\n\n出会いの「数」にはこれだけお金が流れてるのに、毎回同じタイプで消耗する原因（自分の選び方のクセ）の点検はタダでもやられない。\n\n母数は買えても、フィルターは買い直せない。\n#婚活 #マッチングアプリ",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 0,
+            "pred_high": 10,
+            "actual_24h": null,
+            "latest": null,
+            "remote_url": "",
+            "last_error": ""
+        },
+        {
+            "id": 43,
+            "platform": "threads",
+            "hypothesis": "H-03",
+            "status": "pending",
+            "scheduled_at": "2026-08-10 20:30:00",
+            "posted_at": "",
+            "body": "マッチングアプリ白書2026によると、市場規模は1,094億円。\n\nそれだけのお金が「出会いの数」に流れてる。でも、毎回似たタイプで消耗する原因——自分がどの型に吸い寄せられやすいか——の点検は無料なのに、やってる人はほとんど見ない。\n\n課金で母数は買える。選び方のクセは買い直せない。\n\n数を増やす前に、自分のフィルターの癖を一度疑ってみるほうが早いと思うけどね。",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 120,
+            "pred_high": 430,
+            "actual_24h": null,
+            "latest": null,
+            "remote_url": "",
+            "last_error": ""
+        },
+        {
+            "id": 42,
+            "platform": "x",
+            "hypothesis": "H-05",
+            "status": "pending",
+            "scheduled_at": "2026-08-10 18:30:00",
+            "posted_at": "",
+            "body": "帰省・旅行で会えない週の回避型対応：\n\n連絡を増やして埋めにいかない。あの型には長期休みが充電期間で、追撃はシャッターの合図になりやすい。\n\nこっちも自分の夏を楽しんで、戻った頃に軽い一言。\n\n会えない週は追う週じゃなく、放牧の週。\n#恋愛心理学",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 0,
+            "pred_high": 10,
+            "actual_24h": null,
+            "latest": null,
+            "remote_url": "",
+            "last_error": ""
+        },
+        {
+            "id": 41,
+            "platform": "threads",
+            "hypothesis": "H-05",
+            "status": "pending",
+            "scheduled_at": "2026-08-10 18:00:00",
+            "posted_at": "",
+            "body": "今日の一手は、帰省や旅行で会えない週の回避型への振る舞い方。\n\n「会えない分を埋めよう」と連絡を増やすのは逆効果になりやすい。あの型にとって長期休みは充電期間だから、追撃はシャッターを下ろす合図。\n\nおすすめは、こっちも自分の夏を楽しんで、戻ってきた頃に軽い一言を置いておくくらい。\n\n会えない週は、追う週じゃなくて、放牧の週。今日はここまで。",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 160,
+            "pred_high": 570,
+            "actual_24h": null,
+            "latest": null,
+            "remote_url": "",
+            "last_error": ""
+        },
+        {
+            "id": 40,
+            "platform": "x",
+            "hypothesis": "H-06",
+            "status": "pending",
+            "scheduled_at": "2026-08-10 12:45:00",
+            "posted_at": "",
+            "body": "お盆で会えない1週間。\n\n不安型→「距離が空く＝心も離れる」と焦る\n回避型→一人時間で充電され機嫌よく戻る\n\n同じ期間が片方には試練、片方には回復。距離の意味が型で真逆だから、「平気そう＝冷めた」は誤読になりがち。\n#愛着スタイル",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 0,
+            "pred_high": 10,
+            "actual_24h": null,
+            "latest": null,
+            "remote_url": "",
+            "last_error": ""
+        },
+        {
+            "id": 39,
+            "platform": "threads",
+            "hypothesis": "H-06",
+            "status": "pending",
+            "scheduled_at": "2026-08-10 12:15:00",
+            "posted_at": "",
+            "body": "お盆の帰省シーズン、不安型×回避型カップルの定番イベントが始まる。\n\n会えない期間、不安型は「距離が空く＝気持ちが離れる」とカウントダウンを始める。一方の回避型は、一人時間で充電されてむしろ機嫌よく帰ってくる。\n\n同じ1週間が、片方には試練で、片方には回復。\n\n距離の意味が型で真逆だから、「会えなくて平気そう＝冷めた」の読みは外れやすい。",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 290,
+            "pred_high": 1030,
+            "actual_24h": null,
+            "latest": null,
+            "remote_url": "",
+            "last_error": ""
+        },
+        {
+            "id": 38,
+            "platform": "x",
+            "hypothesis": "H-06",
+            "status": "pending",
+            "scheduled_at": "2026-08-10 07:30:00",
+            "posted_at": "",
+            "body": "不安型×不安型、序盤最強・長期戦弱めの構成。\n\nお互い「安心をもらう側」に回りたい型だから、盛り上がりは速いのに供給が続かない。\n\n愛の量の問題じゃなくて、需給の構造の問題。\n#恋愛心理学 #愛着スタイル",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 0,
+            "pred_high": 10,
+            "actual_24h": null,
+            "latest": null,
+            "remote_url": "",
+            "last_error": ""
+        },
+        {
+            "id": 37,
+            "platform": "threads",
+            "hypothesis": "H-06",
+            "status": "pending",
+            "scheduled_at": "2026-08-10 07:15:00",
+            "posted_at": "",
+            "body": "不安型×不安型のカップル、外から見ると両想いの理想形なのに、中身は安心の奪い合いになりやすい組み合わせ。\n\n「私のこと好き？」を確かめたい者同士だから、序盤の盛り上がりはすごい。ただ、どっちも安心を配る側に回る余力がなくて、もらう側の椅子を2人で取り合う。\n\n愛が足りないんじゃなくて、配る人が2人ともいない構造。\n\n相性は熱量じゃなくて、需給で見るほうが当たりやすい。",
+            "edited_by_keita": false,
+            "keita_comment": "",
+            "pred_low": 290,
+            "pred_high": 1030,
+            "actual_24h": null,
+            "latest": null,
+            "remote_url": "",
+            "last_error": ""
+        },
         {
             "id": 36,
             "platform": "x",
@@ -294,7 +464,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-10 05:35:02"
+                "at": "2026-08-10 06:30:01"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbx3fmTE0bG",
             "last_error": ""
@@ -342,7 +512,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-10 05:35:02"
+                "at": "2026-08-10 06:30:01"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxwoNKE5rc",
             "last_error": ""
@@ -390,7 +560,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-10 05:35:02"
+                "at": "2026-08-10 06:30:02"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbxfdb6FPFO",
             "last_error": ""
@@ -414,7 +584,7 @@
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-10 05:35:03"
+                "at": "2026-08-10 06:30:02"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK36uFJHs",
             "last_error": ""
@@ -462,7 +632,7 @@
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-10 05:35:03"
+                "at": "2026-08-10 06:30:04"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK3DDlC9z",
             "last_error": ""
@@ -534,7 +704,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-10 05:35:04"
+                "at": "2026-08-10 06:30:05"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvSspPEwIh",
             "last_error": ""
@@ -582,7 +752,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-10 05:35:04"
+                "at": "2026-08-10 06:30:05"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbvIZhpEwV0",
             "last_error": ""
@@ -630,7 +800,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-10 05:35:04"
+                "at": "2026-08-10 06:30:05"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbu7z0gk716",
             "last_error": ""
@@ -678,7 +848,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-10 05:35:04"
+                "at": "2026-08-10 06:30:06"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbuTLr3k9H1",
             "last_error": ""
@@ -726,7 +896,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-10 05:35:05"
+                "at": "2026-08-10 06:30:06"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbt_KBek15b",
             "last_error": ""
@@ -801,7 +971,7 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-10 05:35:01",
+        "threads_last": "2026-08-10 06:30:01",
         "x_last": "2026-08-10 02:45:01",
         "last_error": ""
     }
