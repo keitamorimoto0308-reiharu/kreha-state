@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-09 09:05:09",
+    "generated_at": "2026-08-09 09:35:01",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 10,
@@ -270,7 +270,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-09 03:15:02"
+                "at": "2026-08-09 09:10:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2086074954936885556",
             "last_error": ""
@@ -318,7 +318,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-09 03:15:02"
+                "at": "2026-08-09 09:10:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2086059856214311142",
             "last_error": ""
@@ -366,7 +366,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-09 03:15:02"
+                "at": "2026-08-09 09:10:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2086022106656170209",
             "last_error": ""
@@ -438,7 +438,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-09 03:15:02"
+                "at": "2026-08-09 09:10:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085969317422825519",
             "last_error": ""
@@ -486,7 +486,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-09 03:15:02"
+                "at": "2026-08-09 09:10:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085969287672631763",
             "last_error": ""
@@ -510,7 +510,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-09 03:15:02"
+                "at": "2026-08-09 09:10:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085710052024111362",
             "last_error": ""
@@ -558,7 +558,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-09 03:15:02"
+                "at": "2026-08-09 09:10:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085689918580576468",
             "last_error": ""
@@ -606,7 +606,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-09 03:15:02"
+                "at": "2026-08-09 09:10:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085660980323971297",
             "last_error": ""
@@ -654,7 +654,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-09 03:15:02"
+                "at": "2026-08-09 09:10:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085571638322708784",
             "last_error": ""
@@ -702,7 +702,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-09 03:15:02"
+                "at": "2026-08-09 09:10:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2085521347053289598",
             "last_error": ""
@@ -802,7 +802,7 @@
     ],
     "collector": {
         "threads_last": "2026-08-09 09:05:01",
-        "x_last": "2026-08-09 03:15:02",
+        "x_last": "2026-08-09 09:10:02",
         "last_error": ""
     }
 }
