@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-12 02:15:01",
+    "generated_at": "2026-08-12 02:45:01",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 20,
@@ -464,7 +464,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-12 01:30:02"
+                "at": "2026-08-12 02:25:01"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbx3fmTE0bG",
             "last_error": ""
@@ -512,7 +512,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-12 01:30:02"
+                "at": "2026-08-12 02:25:02"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxwoNKE5rc",
             "last_error": ""
@@ -560,7 +560,7 @@
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-12 01:30:03"
+                "at": "2026-08-12 02:25:02"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbxfdb6FPFO",
             "last_error": ""
@@ -584,7 +584,7 @@
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-12 01:30:03"
+                "at": "2026-08-12 02:25:03"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK36uFJHs",
             "last_error": ""
@@ -632,7 +632,7 @@
                 "replies": 0,
                 "reposts": 1,
                 "quotes": 0,
-                "at": "2026-08-12 01:30:04"
+                "at": "2026-08-12 02:25:03"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbxK3DDlC9z",
             "last_error": ""
@@ -971,7 +971,7 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-12 01:30:01",
+        "threads_last": "2026-08-12 02:25:01",
         "x_last": "2026-08-12 01:35:01",
         "last_error": ""
     }
