@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-13 11:50:01",
+    "generated_at": "2026-08-13 12:20:02",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 30,
@@ -8,7 +8,7 @@
         "posts_posted": 22,
         "posts_failed": 0,
         "posts_skipped": 2,
-        "engage_open": 41,
+        "engage_open": 42,
         "engage_done": 0,
         "engage_passed": 0,
         "inbox_open_count": 1,
@@ -1141,7 +1141,7 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-13 11:00:01",
+        "threads_last": "2026-08-13 11:55:02",
         "x_last": "2026-08-13 06:55:02",
         "last_error": ""
     }
