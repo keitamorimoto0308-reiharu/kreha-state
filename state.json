@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-16 08:45:01",
+    "generated_at": "2026-08-16 09:15:01",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 41,
@@ -1328,7 +1328,7 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-16 08:10:02",
+        "threads_last": "2026-08-16 09:10:02",
         "x_last": "2026-08-16 05:15:01",
         "last_error": ""
     }
