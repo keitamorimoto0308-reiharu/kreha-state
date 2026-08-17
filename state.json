@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-18 01:40:01",
+    "generated_at": "2026-08-18 03:10:02",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 41,
@@ -73,7 +73,7 @@
         },
         {
             "id": "TEST",
-            "posts": 3,
+            "posts": 2,
             "judged": 0,
             "hit": 0,
             "miss": 0,
@@ -1308,27 +1308,10 @@
             "latest": null,
             "remote_url": "",
             "last_error": ""
-        },
-        {
-            "id": 1,
-            "platform": "threads",
-            "hypothesis": "TEST",
-            "status": "skipped",
-            "scheduled_at": "2026-08-04 07:30:00",
-            "posted_at": "",
-            "body": "【接続テスト】この投稿はサンプルです。承認・差替え・スキップのボタンが動くかの確認用。\n※SNS接続が未設定なので「今すぐ投稿」は「未接続」で止まります（これが正しい動作です）",
-            "edited_by_keita": false,
-            "keita_comment": "",
-            "pred_low": 100,
-            "pred_high": 300,
-            "actual_24h": null,
-            "latest": null,
-            "remote_url": "",
-            "last_error": "Threadsの接続が未設定です（設定画面でユーザーIDとアクセストークンを登録）"
         }
     ],
     "collector": {
-        "threads_last": "2026-08-18 01:10:02",
+        "threads_last": "2026-08-18 03:05:02",
         "x_last": "2026-08-17 22:10:01",
         "last_error": ""
     }
