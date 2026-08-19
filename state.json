@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-19 10:35:05",
+    "generated_at": "2026-08-19 11:05:06",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 41,
@@ -65,7 +65,7 @@
         },
         {
             "id": "直感・予測なし",
-            "posts": 2,
+            "posts": 1,
             "judged": 0,
             "hit": 0,
             "miss": 0,
@@ -1256,23 +1256,6 @@
             "actual_24h": null,
             "latest": null,
             "remote_url": "https://x.com/Ainchu_loveota/status/2084828235385442728",
-            "last_error": ""
-        },
-        {
-            "id": 3,
-            "platform": "threads",
-            "hypothesis": "直感・予測なし",
-            "status": "posted",
-            "scheduled_at": "2026-08-05 10:58:40",
-            "posted_at": "2026-08-05 10:58:50",
-            "body": "接続テストです。すぐ消します。",
-            "edited_by_keita": false,
-            "keita_comment": "",
-            "pred_low": null,
-            "pred_high": null,
-            "actual_24h": null,
-            "latest": null,
-            "remote_url": "https://www.threads.com/@ainchu_loveota/post/DbpA23Pk-wu",
             "last_error": ""
         },
         {
