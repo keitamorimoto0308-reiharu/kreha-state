@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-19 11:35:05",
+    "generated_at": "2026-08-19 12:05:06",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 41,
@@ -65,7 +65,7 @@
         },
         {
             "id": "TEST",
-            "posts": 2,
+            "posts": 1,
             "judged": 0,
             "hit": 0,
             "miss": 0,
@@ -1231,23 +1231,6 @@
                 "at": "2026-08-11 08:45:08"
             },
             "remote_url": "https://www.threads.com/@ainchu_loveota/post/Dbt_KBek15b",
-            "last_error": ""
-        },
-        {
-            "id": 2,
-            "platform": "threads",
-            "hypothesis": "TEST",
-            "status": "skipped",
-            "scheduled_at": "2026-08-04 23:59:00",
-            "posted_at": "",
-            "body": "【中継テスト】Googleドライブ経由の取り込み確認用のサンプルです。確認できたらスキップしてください。",
-            "edited_by_keita": false,
-            "keita_comment": "",
-            "pred_low": 0,
-            "pred_high": 0,
-            "actual_24h": null,
-            "latest": null,
-            "remote_url": "",
             "last_error": ""
         },
         {
