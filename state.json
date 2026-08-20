@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-20 23:35:01",
+    "generated_at": "2026-08-21 00:05:01",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 30,
@@ -22,46 +22,46 @@
         {
             "slot": 0,
             "time": "12:00",
-            "scheduled_at": "2026-08-20 12:00",
-            "hypothesis": "H-02",
-            "closing_code": "CLOSE_A",
-            "cycle_day": 11,
+            "scheduled_at": "2026-08-21 12:00",
+            "hypothesis": "H-06",
+            "closing_code": "CLOSE_B",
+            "cycle_day": 12,
             "design_version": "C2-v1"
         },
         {
             "slot": 1,
             "time": "15:00",
-            "scheduled_at": "2026-08-20 15:00",
-            "hypothesis": "H-06",
-            "closing_code": "CLOSE_B",
-            "cycle_day": 11,
+            "scheduled_at": "2026-08-21 15:00",
+            "hypothesis": "H-03",
+            "closing_code": "CLOSE_A",
+            "cycle_day": 12,
             "design_version": "C2-v1"
         },
         {
             "slot": 2,
             "time": "18:00",
-            "scheduled_at": "2026-08-20 18:00",
-            "hypothesis": "H-03",
-            "closing_code": "CLOSE_A",
-            "cycle_day": 11,
+            "scheduled_at": "2026-08-21 18:00",
+            "hypothesis": "H-02",
+            "closing_code": "CLOSE_B",
+            "cycle_day": 12,
             "design_version": "C2-v1"
         },
         {
             "slot": 3,
             "time": "20:00",
-            "scheduled_at": "2026-08-20 20:00",
-            "hypothesis": "H-02",
-            "closing_code": "CLOSE_B",
-            "cycle_day": 11,
+            "scheduled_at": "2026-08-21 20:00",
+            "hypothesis": "H-06",
+            "closing_code": "CLOSE_A",
+            "cycle_day": 12,
             "design_version": "C2-v1"
         },
         {
             "slot": 4,
             "time": "21:30",
-            "scheduled_at": "2026-08-20 21:30",
-            "hypothesis": "H-06",
-            "closing_code": "CLOSE_A",
-            "cycle_day": 11,
+            "scheduled_at": "2026-08-21 21:30",
+            "hypothesis": "H-03",
+            "closing_code": "CLOSE_B",
+            "cycle_day": 12,
             "design_version": "C2-v1"
         }
     ],
@@ -3131,7 +3131,7 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-20 22:45:02",
+        "threads_last": "2026-08-20 23:40:02",
         "x_last": "2026-08-20 20:25:01",
         "last_error": ""
     },
