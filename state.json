@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-21 02:05:01",
+    "generated_at": "2026-08-21 02:35:01",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 70,
@@ -2307,12 +2307,12 @@
             "exclude_reason": "",
             "lint_flags": "{\"hard\":[],\"soft\":[],\"at\":\"2026-08-20 13:25:11\"}",
             "latest": {
-                "views": 13,
+                "views": 15,
                 "likes": 0,
                 "replies": 0,
                 "reposts": 0,
                 "quotes": 0,
-                "at": "2026-08-20 20:25:01"
+                "at": "2026-08-21 02:15:02"
             },
             "remote_url": "https://x.com/Ainchu_loveota/status/2090294047982424225",
             "last_error": ""
@@ -3859,8 +3859,8 @@
         }
     ],
     "collector": {
-        "threads_last": "2026-08-21 01:35:02",
-        "x_last": "2026-08-20 20:25:01",
+        "threads_last": "2026-08-21 02:30:02",
+        "x_last": "2026-08-21 02:15:01",
         "last_error": ""
     },
     "linter": {
