@@ -1,6 +1,6 @@
 {
     "schema": "kreha-supporter-state/1",
-    "generated_at": "2026-08-20 16:35:01",
+    "generated_at": "2026-08-20 17:05:01",
     "notice": "投函箱の本文・認証情報は含めない方針（2026-08-07けいた裁定）。ここにある投稿本文はSNS上ですでに公開済みのもの。",
     "summary": {
         "posts_pending": 0,
@@ -64,9 +64,7 @@
         }
     ],
     "assignment_note": "仮説・時刻・締めの型はアプリが決定済み。朝便は各スロットの hypothesis と closing_code に合わせて本文を書くだけでよい（自分で配合を決めない）。",
-    "engage_recent_urls": [
-        "https://x.com/IBJ_renmei/status/2086758203174613309"
-    ],
+    "engage_recent_urls": [],
     "hypotheses": [
         {
             "id": "H-06",
